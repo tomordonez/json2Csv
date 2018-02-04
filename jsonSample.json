@@ -1,0 +1,68 @@
+{
+  "type": "dict",
+  "result": {
+    "next_index": "0",
+    "ts_end": "",
+    "list": [
+      {
+        "myself": "no",
+        "bookmarked": "no",
+        "update_time": "2017-09-18 14:17:52",
+        "pic": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Homer_Simpson_2006.png/212px-Homer_Simpson_2006.png",
+        "greeting_already": "no",
+        "att_id": "1151298",
+        "thread": "904eaf7407588dhb6fc8a82c5c68a4ca",
+        "tags": [],
+        "is_enriched": 1,
+        "profile_id": "3812036",
+        "pid": "homer simpson:63ccc3553ai3j21dfa95d236202a0145",
+        "jid": "vcgGS4hGh13AN05YEozZpl0bAeh",
+        "summary": [
+          "Safety Inspector",
+          "Springfield Nuclear Power Plant",
+          "Springfield",
+          "All Attendees"
+        ],
+        "deleted": "no",
+        "sort_lname": "SIMPSON",
+        "id": "homer simpson:63ccc3553ai3j21dfa95d236202a0145",
+        "categories": [
+          "All Attendees"
+        ],
+        "name": "Homer Simpson"
+      },
+      {
+        "myself": "no",
+        "bookmarked": "no",
+        "update_time": "2017-10-15 12:39:44",
+        "pic": "https://upload.wikimedia.org/wikipedia/en/5/56/Mr_Burns.png",
+        "greeting_already": "no",
+        "att_id": "1147367",
+        "thread": "0d46abbf6ccd6b0e18ab",
+        "tags": [
+          "Sponsor"
+        ],
+        "is_enriched": 1,
+        "profile_id": "3711376",
+        "pid": "monty burns:cd8ed31248asd232e0ace8c0f544e",
+        "jid": "iiKnGp5ksDg7j5q0Jl98LEPjxifQp1ZwNQD1tyRLu9DgJSVhtyTKZOI9i10jRubL",
+        "summary": [
+          "Owner",
+          "Springfield Nuclear Power Plant",
+          "Springfield",
+          "Sponsor",
+          "All Attendees"
+        ],
+        "deleted": "no",
+        "email": "iiKnGp5ksD3jjlkjkjlwkjl21ZwNQD1tyRLu9DgJSVhtyTKZOI9i10jRubL",
+        "sort_lname": "BURNS",
+        "id": "monty burns:cd8ed31248asd232e0ace8c0f544e",
+        "categories": [
+          "Sponsor",
+          "All Attendees"
+        ],
+        "name": "Monty Burns"
+      }
+    ]
+  }
+}
